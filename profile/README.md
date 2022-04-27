@@ -5,6 +5,6 @@
 
 🌈 Contribution guidelines - have a look at the repositories and their contribution guidelines
 
-👩‍💻 Useful resources - [website](https://bitfunk.eu)
+👩‍💻 Useful resources - <a href="https://bitfunk.eu/" target="_blank">website</a>
 
 🍿 Fun facts - bitfunk in leet form is b17funk or 817funk, which is a special date
