@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+A bit fun Kotlin - bitfunk
 
 🙋‍♀️ Here you'll find open source projects around Gradle, Kotlin, Kotlin Multiplatform, Mobile, Android and iOS.
 
@@ -7,4 +8,4 @@
 
 👩‍💻 Useful resources - [website](https://bitfunk.eu/)
 
-🍿 Fun facts - bitfunk in leet form is b17funk or 817funk, which is a special date
+🍿 Fun facts - bitfunk in leet form 817FunK
