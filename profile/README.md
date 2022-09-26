@@ -8,4 +8,4 @@ A bit fun Kotlin - bitfunk
 
 👩‍💻 Useful resources - [website](https://bitfunk.eu/), [author](https://wolfmontwe.com/)
 
-🍿 Fun facts - bitfunk in leet form 817FunK
+🍿 Fun facts - bitfunk in leet form is 817FunK
