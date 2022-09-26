@@ -6,6 +6,6 @@ A bit fun Kotlin - bitfunk
 
 🌈 Contribution guidelines - have a look at the repositories and their contribution guidelines
 
-👩‍💻 Useful resources - [website](https://bitfunk.eu/) - [author](https://wolfmontwe.com/)
+👩‍💻 Useful resources - [website](https://bitfunk.eu/), [author](https://wolfmontwe.com/)
 
 🍿 Fun facts - bitfunk in leet form 817FunK
