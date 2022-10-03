@@ -2,7 +2,7 @@
 
 A bit fun Kotlin - bitfunk
 
-🙋‍♀️ Here you'll find open source projects around Gradle, Kotlin, Kotlin Multiplatform, Mobile, Android and iOS.
+🙋‍♂️ Here you'll find open source projects around Gradle, Kotlin, Kotlin Multiplatform, Mobile, Android and iOS.
 
 🌈 Contribution guidelines - have a look at the repositories and their contribution guidelines
 
